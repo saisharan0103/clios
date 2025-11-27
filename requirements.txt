@@ -1,0 +1,12 @@
+streamlit
+requests
+pydantic
+python-dotenv
+langchain
+langchain-community
+sentence-transformers
+pinecone
+tiktoken
+firecrawl-py
+google-genai
+google-generativeai
